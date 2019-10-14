@@ -10,7 +10,7 @@ public class TwoDimension {
 				System.out.println(arr[i][j]);
 			}
 			System.out.println();
-		}
+		}//asd
 	}
 
 }
