@@ -23,7 +23,7 @@ public class RandomAccessFileTest {
 		System.out.println(d);
 		System.out.println(str);
 		
-		
+		//ddd
 		
 		
 		
